@@ -1,8 +1,7 @@
-# ceng2034_os_labs
+# MSKU CENG2034 Operating Systems Lab Resources
 -----------------------------
-MSKU CENG2034 Operating Systems Lab Resources
 
-[Last years repo](https://gitlab.com/CakirHuseyin/CENG_2034_Operating_Systems-2018)
+[2018](https://gitlab.com/CakirHuseyin/CENG_2034_Operating_Systems-2018)
 
 [Lecture homepage](http://wiki.netseclab.mu.edu.tr/index.php?title=CENG_2034:_Operating_Systems)
 
